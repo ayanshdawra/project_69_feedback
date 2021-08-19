@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: orange;
+}
+#marqueestyle{
+    font-size: 40px;
+    color: firebrick;
+}
+iframe{
+    width: 600px;
+}
+.branch{
+    width: 300px;
+}
+.campus_img{
+    width: 600px
+}
